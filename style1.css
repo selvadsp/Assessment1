@@ -31,7 +31,7 @@ input[type="text"], textarea {
   border: 1px solid #ccc;
 }
 input[type="text"] {
-  background-color: #18641a;
+  background-color: #fff;
   color: #fff;
   padding: 10px 20px;
   border: none;
